@@ -1,0 +1,22 @@
+{
+  "name": "circle-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "sum.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zpc7/Circle-Test.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zpc7/Circle-Test/issues"
+  },
+  "homepage": "https://github.com/zpc7/Circle-Test#readme",
+  "devDependencies": {
+    "jest": "^26.1.0"
+  }
+}
